@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PlanetsFuture
 - 👀 I’m interested in music, literature, physics and programming 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently working in Web development
 - 💞️ I would like to have eventually my own library for graphics and numerical computation
 - 📫 You can reach me at: danny.ramrez7@gmail.com
 
